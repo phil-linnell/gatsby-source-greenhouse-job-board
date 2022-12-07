@@ -28,7 +28,7 @@
     "cross-env": "^5.1.4"
   },
   "peerDependencies": {
-    "gatsby": "^4.11.1"
+    "gatsby": "^5.2.0"
   },
   "scripts": {
     "build": "babel src --out-dir . --ignore **/__tests__",
